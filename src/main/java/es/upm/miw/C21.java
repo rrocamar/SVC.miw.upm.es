@@ -1,4 +1,4 @@
-package es.upm.es.upm.miw;
+package es.upm.miw;
 
 public class C21 {
 
